@@ -1,1 +1,1 @@
-web: example-go
+web: web.go
